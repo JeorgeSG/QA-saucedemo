@@ -45,6 +45,14 @@ assignees: []
 - [ ] Média
 - [ ] Baixa
 
+## Prioridade
+
+<!-- Severidade = impacto no sistema. Prioridade = urgência da correção para o negócio. -->
+
+- [ ] Alta
+- [ ] Média
+- [ ] Baixa
+
 ## Área
 
 <!-- Ex.: Login, Produtos, Detalhe do produto, Carrinho, Checkout, Menu. -->

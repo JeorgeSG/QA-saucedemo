@@ -79,24 +79,46 @@
 | Média | Comportamento incorreto em funcionalidade secundária ou com contorno simples. |
 | Baixa | Problema visual, de texto ou cosmético, sem impacto na função. |
 
-## 8. Riscos e premissas
+### 7.1 Prioridade dos bugs
+
+<!-- Severidade mede o impacto; prioridade mede a urgência da correção. Um bug de severidade baixa pode ter prioridade alta (ex.: erro de texto na tela inicial). -->
+
+| Prioridade | Critério |
+|---|---|
+| Alta | Corrigir antes da próxima entrega. |
+| Média | Corrigir em uma das próximas entregas. |
+| Baixa | Corrigir quando houver capacidade. |
+
+## 8. Evidências
+
+Arquivos salvos em [`docs/evidencias/`](evidencias/), nomeados pelo ID do caso ou do bug:
+
+| Origem | Padrão | Exemplo |
+|---|---|---|
+| Caso de teste | `CT-<nº>_<descricao>.<ext>` | `CT-001_login-valido.png` |
+| Bug | `BUG-<nº>_<descricao>.<ext>` | `BUG-01_imagem-produto.png` |
+| Sessão exploratória | `SE-<nº>_<descricao>.<ext>` | `SE-01_menu-lateral.png` |
+
+## 9. Riscos e premissas
 
 | Risco / premissa | Impacto | Mitigação |
 |---|---|---|
 | | | |
 
-## 9. Entregáveis
+## 10. Entregáveis
 
 - [Sessão exploratória](sessao-exploratoria.md)
 - [Casos de teste](casos-de-teste.md)
 - [Avaliação de usabilidade](avaliacao-usabilidade.md)
+- [Relatório de execução](relatorio-de-execucao.md)
 - Bugs registrados no GitHub Issues
 
-## 10. Cronograma
+## 11. Cronograma
 
 | Atividade | Data prevista | Status |
 |---|---|---|
 | Sessão exploratória | | |
-| Escrita dos casos de teste | | |
+| Escrita dos cenários e casos de teste | | |
 | Execução e registro de bugs | | |
 | Avaliação de usabilidade | | |
+| Relatório de execução | | |
