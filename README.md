@@ -29,11 +29,14 @@ Projeto de QA para portfólio com testes manuais da aplicação [Sauce Demo](htt
 
 ## Documentação
 
-- [Plano de testes](docs/plano-de-testes.md)
-- [Sessão exploratória](docs/sessao-exploratoria.md)
-- [Casos de teste](docs/casos-de-teste.md)
-- [Avaliação de usabilidade](docs/avaliacao-usabilidade.md)
-- [Evidências](docs/evidencias/)
+| Documento | Descrição |
+|---|---|
+| [Plano de testes](docs/plano-de-testes.md) | Escopo, abordagem, ambiente, critérios de severidade e prioridade. |
+| [Sessão exploratória](docs/sessao-exploratoria.md) | Charter, anotações e achados da exploração inicial. |
+| [Cenários e casos de teste](docs/casos-de-teste.md) | Cenários por área e casos em Gherkin com resultado da execução. |
+| [Avaliação de usabilidade](docs/avaliacao-usabilidade.md) | Análise pelas 10 heurísticas de Nielsen. |
+| [Relatório de execução](docs/relatorio-de-execucao.md) | Resultados, bugs por severidade, riscos e conclusão. |
+| [Evidências](docs/evidencias/) | Prints e vídeos nomeados pelo ID do caso ou do bug. |
 
 ## Bugs reportados
 
@@ -54,6 +57,12 @@ Projeto de QA para portfólio com testes manuais da aplicação [Sauce Demo](htt
 > Em andamento.
 
 ## Tecnologias
+
+-
+
+## Competências demonstradas
+
+<!-- Liste só o que este repositório comprova (ex.: escrita de casos em Gherkin, reporte de bugs). -->
 
 -
 

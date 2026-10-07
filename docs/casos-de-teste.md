@@ -1,25 +1,36 @@
-# Casos de teste
+# Cenários e casos de teste
 
 <!--
 Convenções:
-- ID: CT-001, CT-002...
+- Cenário: CEN-01, CEN-02... (o que testar)
+- Caso: CT-001, CT-002... (como testar; cada caso pertence a um cenário)
 - Tipo: Positivo ou Negativo
 - Prioridade: Alta, Média ou Baixa
 - Status: Não executado, Passou, Falhou ou Bloqueado
 - Bug: link para a Issue quando o caso falhar
 -->
 
-## Resumo
+## Cenários
 
-| ID | Área | Título | Tipo | Prioridade | Status | Bug |
-|---|---|---|---|---|---|---|
-| CT-001 | | | | | Não executado | |
+| ID | Área | Cenário | Prioridade |
+|---|---|---|---|
+| CEN-01 | | | |
+
+## Resumo dos casos
+
+| ID | Cenário | Área | Título | Tipo | Prioridade | Status | Bug |
+|---|---|---|---|---|---|---|---|
+| CT-001 | CEN-01 | | | | | Não executado | |
 
 ## Casos
 
-### CT-001: <título>
+<!-- Um subtítulo por área (ex.: Login, Carrinho, Checkout). -->
 
-- **Área:**
+### <Área>
+
+#### CT-001: <título>
+
+- **Cenário:** CEN-01
 - **Tipo:**
 - **Prioridade:**
 - **Usuário de teste:**
