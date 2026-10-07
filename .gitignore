@@ -1,0 +1,53 @@
+# Dependências
+node_modules/
+.npm/
+.pnpm-store/
+
+# Relatórios e artefatos de execução
+reports/
+newman/
+allure-results/
+allure-report/
+coverage/
+playwright-report/
+test-results/
+blob-report/
+playwright/.cache/
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+mochawesome-report/
+
+# Logs e temporários
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+*.bak
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+*.local.postman_environment.json
+*.postman_globals.json
+cypress.env.json
+
+# Arquivos de bloqueio do Office
+~$*
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Configuração local do Claude Code
+.claude/settings.local.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
